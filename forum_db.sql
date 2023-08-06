@@ -33,7 +33,7 @@ CREATE TABLE `alumniinfo` (
 
 
 INSERT INTO `alumniinfo` (`pi_name`,  `pi_email`, `pi_register`) VALUES
-('Sourav Ganguly', 'sourav@gmail.com',  'R1');
+('Sundar', 'sundar@gmail.com',  'R1');
 
 
 
@@ -45,8 +45,7 @@ CREATE TABLE `alumnimember` (
 
 
 INSERT INTO `alumnimember` (`pi_register`, `al_password`, `al_status`) VALUES
-('R1', 'sourav', 'Approve'),
-('R10', 'bumrah', 'Approve');
+('R1', 'sundar', 'Approve');
 
 
 
