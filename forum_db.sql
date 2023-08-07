@@ -76,9 +76,9 @@ CREATE TABLE `alumnimember` (
 --
 
 INSERT INTO `alumnimember` (`pi_register`, `al_password`, `al_status`) VALUES
-('1234', '1234', 'Not Approve'),
-('R1', 'sourav', 'Approve'),
-('R10', 'bumrah', 'Approve');
+('1234', '1234', 'Approve'),
+('R1', 'sundar', 'Approve'),
+('R10', 'vatsan', 'Approve');
 
 -- --------------------------------------------------------
 
