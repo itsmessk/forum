@@ -59,7 +59,6 @@ CREATE TABLE `alumniinfo` (
 INSERT INTO `alumniinfo` (`pi_name`, `pi_email`, `pi_register`) VALUES
 ('sundar', 'sundar@gmail.com', 'R1');
 
--- --------------------------------------------------------
 
 --
 -- Table structure for table `alumnimember`
@@ -79,6 +78,7 @@ INSERT INTO `alumnimember` (`pi_register`, `al_password`, `al_status`) VALUES
 ('1234', '1234', 'Approve'),
 ('R1', 'sundar', 'Approve'),
 ('R10', 'vatsan', 'Approve');
+
 
 -- --------------------------------------------------------
 
